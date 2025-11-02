@@ -6,6 +6,9 @@
 
 # MakeDjango
 
+> [!WARNING]
+> This project is DEPRECATED !!!
+
 - Document: Soon
 - Pypi: [HERE](https://pypi.org/project/MakeDjango/)
 - Version: 1.2.7
